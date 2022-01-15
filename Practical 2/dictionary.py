@@ -1,5 +1,5 @@
-# This is Python code for Dictionaries
-# 20CE123 SHUBHAM SARELIYA
+# 20CE123 - Shubham Sareliya
+# Github Link: https://github.com/s-shubham-22/20CE123_CE259_PIP.git
 
 # a. Write a Python script to check whether a given key already exists in a dictionary.
 my_dict = {
